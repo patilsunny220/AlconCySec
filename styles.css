@@ -1,0 +1,55 @@
+/* html{
+    background-color: blue;
+}  */
+
+ /* * {
+    color: red;
+} */
+
+
+.particle-slider-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex; /* Flexbox for centering */
+    justify-content: right; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    overflow: hidden;
+  }
+  
+  #particle-slider {
+    width: 65%;
+    height: 150%;
+    position: relative;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    overflow: hidden;
+  }
+
+/* html, body {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+     position: absolute;
+    right:50; 
+    overflow: hidden;
+  
+    .slides, & > .dg {
+      display: none;
+    }
+  } */
+  
+  @media (min-width: 1000px) {
+    .particle-slider-container  {
+      /* background-image: @hintImg; */
+      background-repeat: no-repeat;
+  
+      & > .dg {
+        display: block;
+      }
+    }
+  }
+  

@@ -1,0 +1,43 @@
+.elementor-1293 .elementor-element.elementor-element-46f8800:not(.elementor-motion-effects-element-type-background), .elementor-1293 .elementor-element.elementor-element-46f8800 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-677c331 );}.elementor-1293 .elementor-element.elementor-element-46f8800{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:24px 24px 24px 24px;}.elementor-1293 .elementor-element.elementor-element-46f8800 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1293 .elementor-element.elementor-element-e6b0c94{color:var( --e-global-color-41afa41 );}.elementor-1293 .elementor-element.elementor-element-4367368{margin-top:40px;margin-bottom:0px;}.elementor-1293 .elementor-element.elementor-element-022d9b9 .elementor-heading-title{color:var( --e-global-color-677c331 );font-family:"twk", Sans-serif;font-weight:600;}.elementor-1293 .elementor-element.elementor-element-48b36cf{color:var( --e-global-color-677c331 );}@media(max-width:767px){.elementor-1293 .elementor-element.elementor-element-022d9b9 .elementor-heading-title{font-size:24px;line-height:30px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'twk';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../2023/04/TWKEverett-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'twk';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../../2023/04/TWKEverett-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'twk';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('../../2023/04/TWKEverett-Super.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'twk';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2023/04/TWKEverett-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'twk';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2023/04/TWKEverett-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'twk';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2023/04/TWKEverett-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
