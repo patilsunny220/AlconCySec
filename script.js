@@ -16,19 +16,19 @@ var init = function(){
       renderer: 'webgl',
     });
   
-    var gui = new dat.GUI();
-    gui.add(ps, 'ptlGap').min(0).max(1000).step(1).onChange(function(){
-      ps.init(true);
-    });
-    gui.add(ps, 'ptlSize').min(1).max(1000).step(1).onChange(function(){
-      ps.init(true);
-    });
-    gui.add(ps, 'restless');
-    gui.addColor(ps, 'color').onChange(function(value){
-      ps.monochrome = true;
-      ps.setColor(value);
-      ps.init(true);
-    });
+    // var gui = new dat.GUI();
+    // gui.add(ps, 'ptlGap').min(0).max(1000).step(1).onChange(function(){
+    //   ps.init(true);
+    // });
+    // gui.add(ps, 'ptlSize').min(1).max(1000).step(1).onChange(function(){
+    //   ps.init(true);
+    // });
+    // gui.add(ps, 'restless');
+    // gui.addColor(ps, 'color').onChange(function(value){
+    //   ps.monochrome = true;
+    //   ps.setColor(value);
+    //   ps.init(true);
+    // });
   
   
     (window.addEventListener
