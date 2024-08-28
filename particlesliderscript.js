@@ -1,12 +1,3 @@
-// ┌────────────────────────────────────────────────────────────────────┐ \\
-// │ ParticleSlider                   |                     Version 0.9 │ \\
-// ├────────────────────────────────────────────────────────────────────┤ \\
-// │ Copyright © 2013 Tamino Martinius (http://zaku.eu)                 │ \\
-// │ Copyright © 2013 Particleslider.com (http://particleslider.com)    │ \\
-// ├────────────────────────────────────────────────────────────────────┤ \\
-// │ Terms of usage: (http://particleslider.com/legal/license)            │ \\
-// └────────────────────────────────────────────────────────────────────┘ \\
-;
 
 function ParticleSlider(a) {
     var b = this;
